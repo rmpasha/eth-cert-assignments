@@ -1,3 +1,9 @@
 "# eth-cert-assignments" 
 
-Assignment files for Ethereum Developer Certification
+# Author: Rajendra Maharjan #
+
+Assignment files for Ethereum Developer Certification.
+
+Project Work:
+
+https://github.com/rmpasha/eth-dapp-jewelleryShop
